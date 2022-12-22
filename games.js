@@ -90,6 +90,8 @@ const games = ` [
   }
 ]
 `
+
+// "pledged": 94139, 9264
 const template = `
 {
 "name": "",
